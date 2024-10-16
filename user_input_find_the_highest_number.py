@@ -1,4 +1,9 @@
 #ask user to input 5 variables
+var1 = float(input("Enter first variable : "))
+var2 = float(input("Enter second variable : "))
+var3 = float(input("Enter third variable : "))
+var4 = float(input("Enter fourth variable : "))
+var5 = float(input("Enter fifth variable : "))
 
 #compare the variables
 
